@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>image/SWJTU.png</file>
+    </qresource>
+</RCC>
